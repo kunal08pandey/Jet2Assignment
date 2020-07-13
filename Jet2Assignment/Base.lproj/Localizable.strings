@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Jet2Assignment
+
+  Created by Kunal Pandey on 13/07/20.
+  Copyright © 2020 Kunal Pandey. All rights reserved.
+*/
+
+"articles" = "Articles";
+"comments" = " Comments";
+"likes" = " Likes";
+"users" = "Users";
+
+"no_internet_title" = "Connection Issue";
+"no_internet_message" = "No Internet connection available, Please check";
